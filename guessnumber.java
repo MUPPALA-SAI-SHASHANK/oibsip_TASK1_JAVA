@@ -28,7 +28,7 @@ class Guess_Number{
     }
     }
     if(i==k){
-        System.out.println("Well Tried...But number of chances finished...");
+        System.out.println("Well Tried...But number of chances finished... :)");
         System.out.println("The correct number is "+number);
         System.out.println("Your score: "+score);
     }
@@ -39,7 +39,7 @@ class Guess_Number{
         Guessnumber_meth();
     }
     else{
-        System.out.println("Thank you....");
+        System.out.println("Thank you... :)");
     }
     }
     }
